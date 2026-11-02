@@ -1,4 +1,8 @@
-Rodrigo Monteiro
+![Rodrigo Monteiro - Computer Science & Cybersecurity](github-banner.png)
+
+---
+
+# Rodrigo Monteiro
 
 Computer Science & Cybersecurity Student
 
