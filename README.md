@@ -1,15 +1,5 @@
 ![Rodrigo Monteiro - Computer Science & Cybersecurity](github-banner.png)
 
----
-
-# Rodrigo Monteiro
-
-Computer Science & Cybersecurity Student
-
-Building knowledge. Developing skills. Securing systems.
-
----
-
 👨‍💻 About Me
 
 I am pursuing a structured 24-month educational journey in Computer Science and Cybersecurity.
