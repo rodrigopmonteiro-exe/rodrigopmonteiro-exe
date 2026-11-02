@@ -46,7 +46,7 @@ A structured learning program from foundational Computer Science concepts to adv
 
 🔗 Connect
 
-- LinkedIn: "My LinkedIn" (https://www.linkedin.com/)
+- LinkedIn: "My LinkedIn" (https://www.linkedin.com/in/rodrigo-monteiro-230979405/)
 
 ---
 
