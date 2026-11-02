@@ -100,13 +100,7 @@ My goal is not simply to complete courses, but to develop the ability to underst
 
 - Portuguese — Native
 - English — Intermediate (continuously improving technical English)
-
-🔗 Professional Connections
-
-- "LinkedIn" (https://www.linkedin.com/in/rodrigo-monteiro-230979405/)
-- "GitHub" (https://github.com/rodrigomonteiro-exe)
-- "Cybersecurity Formation Repository" (https://github.com/rodrigomonteiro-exe/cybersecurity)
-
+  
 ---
 
 Learning by building. Securing by understanding.
