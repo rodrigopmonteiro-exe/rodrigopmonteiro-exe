@@ -4,69 +4,114 @@ Computer Science & Cybersecurity Student
 
 Building knowledge. Developing skills. Securing systems.
 
-""GitHub" (https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)" (https://github.com/rodrigomonteiro-exe)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/rodrigo-monteiro-230979405/)
-
 ---
 
-🎯 About Me
+👨‍💻 About Me
 
 I am pursuing a structured 24-month educational journey in Computer Science and Cybersecurity.
 
-My goal is to build strong theoretical foundations and practical skills through programming, systems administration, networking and information security.
+My objective is to develop strong theoretical foundations and practical skills in programming, operating systems, computer networks and information security.
 
-📚 Current Learning Path
+I believe in continuous learning, disciplined practice and technical knowledge supported by real-world projects.
 
-Area| Focus
-Programming| Python
-Operating Systems| Linux
-Networking| TCP/IP, DNS, protocols
-Cybersecurity| Security fundamentals
-Development| Git and GitHub
-Mathematics| Discrete mathematics and logic
+🎯 Current Learning Path
+
+Programming
+
+- Python Programming
+- Programming Logic
+- Algorithms and Problem Solving
+
+Operating Systems
+
+- Linux Fundamentals
+- Command-Line Administration
+- System Security
+
+Computer Networks
+
+- TCP/IP Fundamentals
+- DNS and Network Protocols
+- Network Architecture
+
+Cybersecurity
+
+- Information Security Fundamentals
+- Security Principles
+- Defensive and Offensive Security Fundamentals
+
+Mathematics and Computer Science
+
+- Discrete Mathematics
+- Computational Logic
+- Computer Science Foundations
 
 🛠️ Technologies & Tools
 
-"Python" (https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&logo=linux&logoColor=black)
-"Git" (https://img.shields.io/badge/Git-Learning-F05032?style=flat-square&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-Using-181717?style=flat-square&logo=github&logoColor=white)
-"Termux" (https://img.shields.io/badge/Termux-Android-000000?style=flat-square&logo=terminal&logoColor=white)
+The following technologies are part of my current learning and practical development:
+
+Technology| Current Status
+Python| Learning
+Linux| Learning
+Git| In Practice
+GitHub| In Practice
+Termux| In Practice
 
 🔬 Practical Development
 
-I document my progress through:
+I document my technical development through:
 
 - Programming exercises and projects.
-- Linux and networking laboratories.
-- Cybersecurity practical exercises.
+- Linux administration laboratories.
+- Computer networking exercises.
+- Cybersecurity practical laboratories.
 - Technical documentation.
-- Assessments and performance reviews.
-- Authorized security research.
+- Academic assessments and performance reviews.
+- Security research in authorized environments.
 
 🎓 Main Educational Project
 
-"24-Month Computer Science & Cybersecurity Formation" (https://github.com/rodrigomonteiro-exe/cybersecurity)
+24-Month Computer Science & Cybersecurity Formation
 
-A structured educational program covering:
+From Foundations to Advanced Practical Skills
+
+My main educational project is a structured 24-month program designed to build comprehensive knowledge in Computer Science and Cybersecurity.
+
+"Explore the Cybersecurity Formation Repository" (https://github.com/rodrigomonteiro-exe/cybersecurity)
+
+The program covers:
 
 - Computer Science foundations.
 - Programming and software development.
 - Mathematics and computational logic.
-- Operating systems and networks.
+- Linux and operating systems.
+- Computer networks and communication protocols.
+- Information security.
 - Defensive and offensive security.
 - Advanced cybersecurity specializations.
+
+The repository contains academic planning, weekly lessons, practical exercises, assessments, laboratories, projects, technical reports, bibliography and certification guidance.
+
+📈 Learning Philosophy
+
+My development is based on three principles:
+
+1. Consistency: maintaining a structured learning routine.
+2. Practice: applying theoretical knowledge through practical exercises and projects.
+3. Documentation: recording technical progress and demonstrating acquired competencies through evidence.
+
+My goal is not simply to complete courses, but to develop the ability to understand, build, analyze and secure technological systems.
 
 🌎 Languages
 
 - Portuguese — Native
-- English — Intermediate (Technical English in development)
+- English — Intermediate (continuously improving technical English)
 
-📈 My Philosophy
+🔗 Professional Connections
 
-Consistency, discipline and practical application.
-
-I believe technical knowledge must be demonstrated through real projects, documented experiments and measurable progress.
+- "LinkedIn" (https://www.linkedin.com/in/rodrigo-monteiro-230979405/)
+- "GitHub" (https://github.com/rodrigomonteiro-exe)
+- "Cybersecurity Formation Repository" (https://github.com/rodrigomonteiro-exe/cybersecurity)
 
 ---
 
