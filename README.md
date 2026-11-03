@@ -71,7 +71,7 @@ From Foundations to Advanced Practical Skills
 
 My main educational project is a structured 24-month program designed to build comprehensive knowledge in Computer Science and Cybersecurity.
 
-"Explore the Cybersecurity Formation Repository" (https://github.com/rodrigomonteiro-exe/cybersecurity)
+"Explore the Cybersecurity Formation Repository" (https://github.com/rodrigopmonteiro-exe/cybersecurity)
 
 The program covers:
 
