@@ -1,106 +1,104 @@
-![Rodrigo Monteiro - Computer Science & Cybersecurity](github-banner.png)
+Rodrigo Monteiro
 
-👨‍💻 About Me
+Computer Science & Cybersecurity | Python | Linux | Networking | Security Engineering
 
-I am pursuing a structured 24-month educational journey in Computer Science and Cybersecurity.
+Building. Testing. Securing.
 
-My objective is to develop strong theoretical foundations and practical skills in programming, operating systems, computer networks and information security.
+I am a Computer Science and Cybersecurity student focused on developing practical technical skills through software development, system administration, networking, and cybersecurity projects.
 
-I believe in continuous learning, disciplined practice and technical knowledge supported by real-world projects.
+My goal is to build a strong technical foundation and progressively develop the skills required to design, analyze, test, and secure computer systems.
 
-🎯 Current Learning Path
+Rather than simply documenting theoretical learning, I focus on applying knowledge through practical projects, technical experimentation, and structured development.
 
-Programming
+---
 
-- Python Programming
-- Programming Logic
-- Algorithms and Problem Solving
+🎯 Current Focus
 
-Operating Systems
+- Python programming and software development.
+- Linux system administration.
+- Computer networks and communication protocols.
+- Cybersecurity fundamentals and security engineering.
+- Security automation and practical security tools.
+- Problem-solving and software engineering principles.
 
-- Linux Fundamentals
-- Command-Line Administration
-- System Security
+---
 
-Computer Networks
+🛡️ Cybersecurity Project Lab
 
-- TCP/IP Fundamentals
-- DNS and Network Protocols
-- Network Architecture
+My main technical portfolio is the Cybersecurity Project Lab.
 
-Cybersecurity
+This repository is dedicated to designing, developing, testing, and documenting practical cybersecurity tools and projects.
 
-- Information Security Fundamentals
-- Security Principles
-- Defensive and Offensive Security Fundamentals
+Each project represents an opportunity to transform theoretical knowledge into working technical solutions.
 
-Mathematics and Computer Science
+Main repository:
 
-- Discrete Mathematics
-- Computational Logic
-- Computer Science Foundations
+"Explore the Cybersecurity Project Lab" (https://github.com/rodrigopmonteiro-exe/cybersecurity)
+
+Featured Projects
+
+Project| Description| Status
+Password Auditor| Python-based password security auditing tool| In Progress
+
+Additional projects will be added as development progresses.
+
+Project Development Standards
+
+My projects emphasize:
+
+- Practical problem-solving.
+- Clean and maintainable code.
+- Security principles and responsible development.
+- Testing and validation.
+- Technical documentation.
+- Demonstrable results and evidence.
+
+All security testing and experimentation are conducted in authorized environments.
+
+---
 
 🛠️ Technologies & Tools
 
-The following technologies are part of my current learning and practical development:
+Programming
 
-Technology| Current Status
-Python| Learning
-Linux| Learning
-Git| In Practice
-GitHub| In Practice
-Termux| In Practice
+- Python
 
-🔬 Practical Development
+Operating Systems
 
-I document my technical development through:
+- Linux
+- Debian
+- Termux
 
-- Programming exercises and projects.
-- Linux administration laboratories.
-- Computer networking exercises.
-- Cybersecurity practical laboratories.
-- Technical documentation.
-- Academic assessments and performance reviews.
-- Security research in authorized environments.
+Development Tools
 
-🎓 Main Educational Project
+- Git
+- GitHub
+- VS Code / code-server
 
-24-Month Computer Science & Cybersecurity Formation
+Areas of Development
 
-From Foundations to Advanced Practical Skills
+- Computer Networking
+- System Administration
+- Information Security
+- Security Automation
 
-My main educational project is a structured 24-month program designed to build comprehensive knowledge in Computer Science and Cybersecurity.
+---
 
-"Explore the Cybersecurity Formation Repository" (https://github.com/rodrigopmonteiro-exe/cybersecurity)
+🎓 Professional Development
 
-The program covers:
+I am following a structured educational path in Computer Science and Cybersecurity, with an emphasis on practical application and progressive technical specialization.
 
-- Computer Science foundations.
-- Programming and software development.
-- Mathematics and computational logic.
-- Linux and operating systems.
-- Computer networks and communication protocols.
-- Information security.
-- Defensive and offensive security.
-- Advanced cybersecurity specializations.
+My long-term objective is to become a cybersecurity specialist capable of developing security solutions, analyzing vulnerabilities, understanding complex systems, and contributing to the security of technological infrastructures.
 
-The repository contains academic planning, weekly lessons, practical exercises, assessments, laboratories, projects, technical reports, bibliography and certification guidance.
-
-📈 Learning Philosophy
-
-My development is based on three principles:
-
-1. Consistency: maintaining a structured learning routine.
-2. Practice: applying theoretical knowledge through practical exercises and projects.
-3. Documentation: recording technical progress and demonstrating acquired competencies through evidence.
-
-My goal is not simply to complete courses, but to develop the ability to understand, build, analyze and secure technological systems.
+---
 
 🌎 Languages
 
 - Portuguese — Native
-- English — Intermediate (continuously improving technical English)
-  
+- English — Intermediate (actively improving technical English)
+
 ---
 
-Learning by building. Securing by understanding.
+📌 Philosophy
+
+Learning by building. Testing by understanding. Securing by engineering.
