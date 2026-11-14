@@ -1,8 +1,8 @@
-Rodrigo Monteiro
+# Rodrigo Monteiro
 
-Computer Science & Cybersecurity | Python | Linux | Networking | Security Engineering
+### Computer Science & Cybersecurity | Python | Linux | Networking | Security Engineering
 
-Building. Testing. Securing.
+**Building. Testing. Securing.**
 
 I am a Computer Science and Cybersecurity student focused on developing practical technical skills through software development, system administration, networking, and cybersecurity projects.
 
@@ -12,7 +12,7 @@ Rather than simply documenting theoretical learning, I focus on applying knowled
 
 ---
 
-🎯 Current Focus
+## 🎯 Current Focus
 
 - Python programming and software development.
 - Linux system administration.
@@ -23,26 +23,27 @@ Rather than simply documenting theoretical learning, I focus on applying knowled
 
 ---
 
-🛡️ Cybersecurity Project Lab
+## 🛡️ Cybersecurity Project Lab
 
-My main technical portfolio is the Cybersecurity Project Lab.
+My main technical portfolio is the **Cybersecurity Project Lab**.
 
 This repository is dedicated to designing, developing, testing, and documenting practical cybersecurity tools and projects.
 
 Each project represents an opportunity to transform theoretical knowledge into working technical solutions.
 
-Main repository:
+**Main repository:**
 
-"Explore the Cybersecurity Project Lab" (https://github.com/rodrigopmonteiro-exe/cybersecurity)
+[Explore the Cybersecurity Project Lab](https://github.com/rodrigopmonteiro-exe/cybersecurity)
 
-Featured Projects
+### Featured Projects
 
-Project| Description| Status
-Password Auditor| Python-based password security auditing tool| In Progress
+| Project | Description | Status |
+|---|---|---|
+| Password Auditor | Python-based password security auditing tool | In Progress |
 
 Additional projects will be added as development progresses.
 
-Project Development Standards
+### Project Development Standards
 
 My projects emphasize:
 
@@ -57,26 +58,22 @@ All security testing and experimentation are conducted in authorized environment
 
 ---
 
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
-Programming
-
+### Programming
 - Python
 
-Operating Systems
-
+### Operating Systems
 - Linux
 - Debian
 - Termux
 
-Development Tools
-
+### Development Tools
 - Git
 - GitHub
 - VS Code / code-server
 
-Areas of Development
-
+### Areas of Development
 - Computer Networking
 - System Administration
 - Information Security
@@ -84,7 +81,7 @@ Areas of Development
 
 ---
 
-🎓 Professional Development
+## 🎓 Professional Development
 
 I am following a structured educational path in Computer Science and Cybersecurity, with an emphasis on practical application and progressive technical specialization.
 
@@ -92,13 +89,13 @@ My long-term objective is to become a cybersecurity specialist capable of develo
 
 ---
 
-🌎 Languages
+## 🌎 Languages
 
 - Portuguese — Native
 - English — Intermediate (actively improving technical English)
 
 ---
 
-📌 Philosophy
+## 📌 Philosophy
 
-Learning by building. Testing by understanding. Securing by engineering.
+**Learning by building. Testing by understanding. Securing by engineering.**
